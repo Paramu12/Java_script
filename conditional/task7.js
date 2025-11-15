@@ -13,4 +13,6 @@ else{
   console.log("Upper Birth")
 }
 //expected output
-//Middle Birth
+//Middle B
+//let day=new Date()
+//console.log(day)
